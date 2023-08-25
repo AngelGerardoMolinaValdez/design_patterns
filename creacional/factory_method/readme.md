@@ -115,7 +115,11 @@ public class Client {
 
 # ***Conclusion***
 
-
+En conclusion el patron de diseno Factory Method se refiere a una interfaz 
+donde el metodo definido funcionara para crear el objeto del producto 
+especificado, dicho producto tambien tiene una base implementada en otra interfaz, que permitira definir multiples productos y esto a su vez permitira
+multiples fabricas de diferentes objetos, teniendo la base de su intefaz que
+esto permitira interconectar a todas las clases hijas y clases nietas.
 
 # ***Referencias***
 

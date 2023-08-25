@@ -118,11 +118,10 @@ public class Client {
 
 # ***Conclusion***
 
-En conclusion el patron de diseno *Factory Method* es una clase abstracta o interfaz denominada 
-'AbstractFactory' que herada sus metodos a otras clases que se conocen como 'ConcreteFactory'
-que crearan las instancias de objetos denominadas 'ConcreteProduct'. Estos 'ConcreteProducts' son 
-clases que han heredado de otra clase abstracta o interfaz de igual forma sus metodos denominada
-'AbstractProduct'.
+En conclusion el patron de diseno abstract factory es similar al patron de 
+diseno factory method con la diferencia que, en factory method solo debemos
+especificar un metodo de creacion de objetos, mientras que en abstract factory
+podemos especificar multiples metodos de creacion de objetos.
 
 ## ***Cual es la diferencia entre "Factory Method" y "Abstract Factory"?***
 
