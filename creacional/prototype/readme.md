@@ -102,4 +102,5 @@ mayor de recursos
 - [Refactoring Guru](https://refactoring.guru/es/design-patterns/prototype)
 - [Refactoring Guru(Example)](https://refactoring.guru/es/design-patterns/prototype/python/example)
 - [SourceMaking](https://sourcemaking.com/design_patterns/prototype)
+- [SourceMaking(Example)](https://sourcemaking.com/design_patterns/prototype/python/1)
 - [Gang of Four Design Patterns](https://springframework.guru/gang-of-four-design-patterns/prototype-pattern/)

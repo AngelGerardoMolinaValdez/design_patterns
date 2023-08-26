@@ -270,4 +270,5 @@ En el ejemplo, puedes ver cómo el patrón "Factory Method" se usa para crear di
 - [Refactoring Guru](https://refactoring.guru/es/design-patterns/abstract-factory/python/example)
 - [Refactoring Guru(Example)](https://refactoring.guru/es/design-patterns/abstract-factory)
 - [SourceMaking](https://sourcemaking.com/design_patterns/abstract_factory)
+- [SourceMaking(Example)](https://sourcemaking.com/design_patterns/abstract_factory/python/1)
 - [Gang of Four Design Patterns](https://springframework.guru/gang-of-four-design-patterns/abstract-factory-design-pattern/)

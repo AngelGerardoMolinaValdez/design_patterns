@@ -126,4 +126,5 @@ esto permitira interconectar a todas las clases hijas y clases nietas.
 - [Refactoring Guru](https://refactoring.guru/es/design-patterns/factory-method/python/example)
 - [Refactoring Guru(Example)](https://refactoring.guru/es/design-patterns/factory-method)
 - [SourceMaking](https://sourcemaking.com/design_patterns/factory_method)
+- [SourceMaking(Example)](https://sourcemaking.com/design_patterns/factory_method/python/1)
 - [Gang of Four Design Patterns](https://springframework.guru/gang-of-four-design-patterns/factory-method-design-pattern/)
