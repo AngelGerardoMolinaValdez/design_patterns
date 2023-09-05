@@ -363,3 +363,5 @@ fabric.properties
 *.iml
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij
+
+.vscode/
